@@ -1,0 +1,1 @@
+<view id="box"><title vue-id="9fa2a500-1" back="back" bind:__l="__l" vue-slots="{{['default']}}"><view class="_h5">订单详情</view></title><view class="xx"></view><view class="am"></view><view class="jp"></view></view>

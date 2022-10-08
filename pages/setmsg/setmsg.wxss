@@ -1,0 +1,71 @@
+.head.data-v-37d714e6 {
+  display: block;
+  width: 240rpx;
+  height: 240rpx;
+  border-radius: 40rpx;
+  margin: 48rpx auto 52rpx;
+  position: relative;
+}
+.head .heads.data-v-37d714e6 {
+  width: 100%;
+  height: 100%;
+  border-radius: 40rpx;
+}
+.head .group.data-v-37d714e6 {
+  position: absolute;
+  width: 84rpx;
+  height: 84rpx;
+  right: 0;
+  bottom: -18%;
+}
+._ul.data-v-37d714e6 {
+  width: 100%;
+  padding: 0 50rpx;
+}
+._ul ._li.data-v-37d714e6 {
+  width: 100%;
+  height: 123rpx;
+  border-bottom: 2rpx solid #b1b1b1;
+  font-size: 32rpx;
+  color: #b1b1b1;
+  margin-bottom: 63rpx;
+}
+._ul ._li input.data-v-37d714e6,
+._ul ._li .inp.data-v-37d714e6 {
+  color: black;
+  font-size: 40rpx;
+  margin-top: 10rpx;
+}
+._ul ._li input .jiantou.data-v-37d714e6,
+._ul ._li .inp .jiantou.data-v-37d714e6 {
+  width: 16rpx;
+  height: 28rpx;
+  float: right;
+  margin-top: 18rpx;
+}
+._ul ._li .sex.data-v-37d714e6 {
+  width: 174rpx;
+  height: 68rpx;
+  border: #b1b1b1 1rpx solid;
+  border-radius: 20rpx;
+  line-height: 68rpx;
+  text-align: center;
+  margin: 20rpx 20rpx 0 0;
+  float: left;
+}
+._ul ._li .active.data-v-37d714e6 {
+  color: white;
+  border: none;
+  background-color: #0069ef;
+}
+._ul .esc.data-v-37d714e6 {
+  margin-top: -20rpx;
+  width: 100%;
+  height: 110rpx;
+  background-color: #F5F6F7;
+  color: #676767;
+  border-radius: 50rpx;
+  text-align: center;
+  line-height: 110rpx;
+}
+

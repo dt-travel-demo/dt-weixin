@@ -1,0 +1,98 @@
+.nav.data-v-127632e4 {
+  width: 100vw;
+  display: flex;
+  padding: 0 20rpx;
+  justify-content: space-evenly;
+}
+.nav .item.data-v-127632e4 {
+  text-align: center;
+  width: 160rpx;
+  padding: 16rpx 0;
+  font-size: 32rpx;
+  color: #aaaaaa;
+}
+.nav .active.data-v-127632e4 {
+  background-color: #0069EF;
+  border-radius: 50rpx;
+  color: white;
+  font-weight: 600;
+}
+.list.data-v-127632e4 {
+  width: 100vw;
+  padding: 0 40rpx;
+}
+.list .ticket.data-v-127632e4 {
+  margin-top: 32rpx;
+  width: 100%;
+  height: 280rpx;
+  border: 4rpx solid #E5E5E5;
+  border-radius: 20rpx;
+}
+.list .ticket .box-top.data-v-127632e4 {
+  padding: 0 45rpx;
+  width: 100% ;
+  height: 218rpx;
+  border-bottom: #E5E5E5 4rpx solid;
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+}
+.list .ticket .box-top image.data-v-127632e4 {
+  width: 68rpx;
+  height: 68rpx;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -60%);
+          transform: translate(-50%, -60%);
+}
+.list .ticket .box-top .line.data-v-127632e4 {
+  background-color: #E5E5E5;
+  width: 2rpx;
+  height: 90%;
+}
+.list .ticket .box-top .shang.data-v-127632e4,
+.list .ticket .box-top .english.data-v-127632e4,
+.list .ticket .box-top ._h3.data-v-127632e4 {
+  width: 240rpx;
+  color: #5e5e5e;
+  font-size: 26rpx;
+  height: 60rpx;
+  line-height: 60rpx;
+}
+.list .ticket .box-top ._h3.data-v-127632e4 {
+  color: #000000;
+  font-size: 40rpx;
+}
+.list .ticket .box-top .english.data-v-127632e4 {
+  font-size: 24rpx;
+}
+.list .ticket .box-top .right-b.data-v-127632e4 {
+  text-align: right;
+}
+.list .ticket .box-top .time.data-v-127632e4 {
+  font-size: 18rpx;
+  color: #02da98;
+  position: absolute;
+  bottom: 10rpx;
+  right: 20rpx;
+}
+.list .ticket .box-bottom.data-v-127632e4 {
+  width: 100%;
+  font-size: 24rpx;
+  color: #a6a6a6;
+  display: flex;
+  padding: 0 20rpx;
+  justify-content: space-between;
+  line-height: 59rpx;
+}
+.list .ticket .box-bottom .btn.data-v-127632e4 {
+  margin-top: 10rpx;
+  line-height: 35rpx;
+  display: inline-block;
+  height: 40rpx;
+  padding: 0 10rpx;
+  border: 4rpx solid #E5E5E5;
+  border-radius: 30rpx;
+}
+
